@@ -18,9 +18,11 @@ blocked_words = [
 ]
 
 rss_feeds = {
-    "BBC": "https://feeds.bbci.co.uk/news/world/rss.xml",
-    "Reuters": "https://www.reuters.com/rssFeed/worldNews.xml",
-    "ReliefWeb": "https://reliefweb.int/updates/rss.xml"
+    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
+    "CNN": "https://www.aljazeera.com/xml/rss/all.xml",
+    "ReliefWeb": "https://reliefweb.int/updates/rss.xml",
+    "Guardian": "https://www.theguardian.com/world/rss",
+    "USGS": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.atom"
 }
 
 def fetch_disaster_news():
