@@ -18,7 +18,7 @@ blocked_words = [
 ]
 
 rss_feeds = {
-    "BBC": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "BBC": "https://feeds.bbci.co.uk/news/world-asia/rss.xml",
     "Reuters": "https://www.reuters.com/rssFeed/worldNews.xml",
     "ReliefWeb": "https://reliefweb.int/updates/rss.xml"
 }
